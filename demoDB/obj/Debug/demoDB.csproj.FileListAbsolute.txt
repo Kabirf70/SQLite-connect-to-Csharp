@@ -1,0 +1,17 @@
+E:\Faisal\demoDB\demoDB\bin\Debug\demoDB.exe.config
+E:\Faisal\demoDB\demoDB\bin\Debug\demoDB.exe
+E:\Faisal\demoDB\demoDB\bin\Debug\demoDB.pdb
+E:\Faisal\demoDB\demoDB\bin\Debug\EntityFramework.dll
+E:\Faisal\demoDB\demoDB\bin\Debug\EntityFramework.SqlServer.dll
+E:\Faisal\demoDB\demoDB\bin\Debug\System.Data.SQLite.dll
+E:\Faisal\demoDB\demoDB\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Faisal\demoDB\demoDB\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Faisal\demoDB\demoDB\bin\Debug\EntityFramework.xml
+E:\Faisal\demoDB\demoDB\bin\Debug\EntityFramework.SqlServer.xml
+E:\Faisal\demoDB\demoDB\bin\Debug\System.Data.SQLite.xml
+E:\Faisal\demoDB\demoDB\bin\Debug\System.Data.SQLite.dll.config
+E:\Faisal\demoDB\demoDB\obj\Debug\demoDB.csprojAssemblyReference.cache
+E:\Faisal\demoDB\demoDB\obj\Debug\demoDB.csproj.CoreCompileInputs.cache
+E:\Faisal\demoDB\demoDB\obj\Debug\demoDB.csproj.CopyComplete
+E:\Faisal\demoDB\demoDB\obj\Debug\demoDB.exe
+E:\Faisal\demoDB\demoDB\obj\Debug\demoDB.pdb
